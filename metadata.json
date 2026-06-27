@@ -1,0 +1,6 @@
+{
+  "name": "SAP B1 Balance Converter",
+  "description": "Convert open accounts payable and receivable files into the exact standard templates required for SAP Business One opening balance uploads (carga de saldo), featuring automatic column mapping, date/number parsing, and instant CSV generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
